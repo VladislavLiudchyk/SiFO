@@ -1,0 +1,34 @@
+|lab1
+Y0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+Data => inst.IN0
+Data => inst18.IN0
+Data => inst19.IN0
+Data => inst20.IN0
+Data => inst21.IN0
+Data => inst22.IN0
+Data => inst23.IN0
+Data => inst33.IN0
+A0 => inst35.IN0
+A0 => inst18.IN1
+A0 => inst20.IN1
+A0 => inst22.IN1
+A0 => inst33.IN1
+A1 => inst34.IN0
+A1 => inst19.IN2
+A1 => inst20.IN2
+A1 => inst23.IN2
+A1 => inst33.IN2
+A2 => inst38.IN0
+A2 => inst21.IN3
+A2 => inst22.IN3
+A2 => inst23.IN3
+A2 => inst33.IN3
+Y1 <= inst18.DB_MAX_OUTPUT_PORT_TYPE
+Y2 <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+Y3 <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+Y4 <= inst21.DB_MAX_OUTPUT_PORT_TYPE
+Y5 <= inst22.DB_MAX_OUTPUT_PORT_TYPE
+Y6 <= inst23.DB_MAX_OUTPUT_PORT_TYPE
+Y7 <= inst33.DB_MAX_OUTPUT_PORT_TYPE
+
+
