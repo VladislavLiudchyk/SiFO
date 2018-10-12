@@ -1,0 +1,396 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 5.560 ns
+From           : m[2]
+To             : Block1:inst|lpm_counter0:inst|lpm_counter:lpm_counter_component|cntr_9mh:auto_generated|safe_q[5]
+From Clock     : --
+To Clock       : clk
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 21.833 ns
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : DCa[7]
+From Clock     : clk
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case tpd
+Slack          : N/A
+Required Time  : None
+Actual Time    : 11.960 ns
+From           : m[0]
+To             : clk_D
+From Clock     : --
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : -3.244 ns
+From           : m[4]
+To             : Block1:inst|lpm_counter0:inst|lpm_counter:lpm_counter_component|cntr_9mh:auto_generated|safe_q[5]
+From Clock     : --
+To Clock       : clk
+Failed Paths   : 0
+
+Type           : Clock Setup: 'clk'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 88.74 MHz ( period = 11.269 ns )
+From           : Block1:inst|lpm_counter0:inst|lpm_counter:lpm_counter_component|cntr_9mh:auto_generated|safe_q[0]
+To             : Block1:inst|lpm_counter0:inst|lpm_counter:lpm_counter_component|cntr_9mh:auto_generated|safe_q[5]
+From Clock     : clk
+To Clock       : clk
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[2]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 181.29 MHz ( period = 5.516 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[2]
+To Clock       : n[2]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[4]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 182.02 MHz ( period = 5.494 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[4]
+To Clock       : m[4]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[1]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 182.02 MHz ( period = 5.494 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[1]
+To Clock       : m[1]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[2]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 182.45 MHz ( period = 5.481 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[2]
+To Clock       : m[2]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[4]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 183.08 MHz ( period = 5.462 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[4]
+To Clock       : n[4]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[1]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 183.18 MHz ( period = 5.459 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[1]
+To Clock       : n[1]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[0]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 183.18 MHz ( period = 5.459 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[0]
+To Clock       : m[0]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[0]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 183.18 MHz ( period = 5.459 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[0]
+To Clock       : n[0]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[3]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 183.99 MHz ( period = 5.435 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[3]
+To Clock       : n[3]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[3]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 183.99 MHz ( period = 5.435 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[3]
+To Clock       : m[3]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[5]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 189.86 MHz ( period = 5.267 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[5]
+To Clock       : m[5]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[5]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 189.86 MHz ( period = 5.267 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[5]
+To Clock       : n[5]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[6]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 207.38 MHz ( period = 4.822 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[6]
+To Clock       : n[6]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[6]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 208.90 MHz ( period = 4.787 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[6]
+To Clock       : m[6]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'n[7]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 224.11 MHz ( period = 4.462 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[7]
+To Clock       : n[7]
+Failed Paths   : 0
+
+Type           : Clock Setup: 'm[7]'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 224.11 MHz ( period = 4.462 ns )
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[0]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[7]
+To Clock       : m[7]
+Failed Paths   : 0
+
+Type           : Clock Hold: 'clk'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : clk
+To Clock       : clk
+Failed Paths   : 36
+
+Type           : Clock Hold: 'n[2]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[2]
+To Clock       : n[2]
+Failed Paths   : 11
+
+Type           : Clock Hold: 'm[1]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[1]
+To Clock       : m[1]
+Failed Paths   : 11
+
+Type           : Clock Hold: 'm[4]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[4]
+To Clock       : m[4]
+Failed Paths   : 11
+
+Type           : Clock Hold: 'm[2]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[2]
+To Clock       : m[2]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'n[4]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[4]
+To Clock       : n[4]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'n[0]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[0]
+To Clock       : n[0]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'm[0]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[0]
+To Clock       : m[0]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'n[1]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[1]
+To Clock       : n[1]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'm[3]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[3]
+To Clock       : m[3]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'n[3]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[3]
+To Clock       : n[3]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'n[5]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[5]
+To Clock       : n[5]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'm[5]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[5]
+To Clock       : m[5]
+Failed Paths   : 10
+
+Type           : Clock Hold: 'n[6]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[6]
+To Clock       : n[6]
+Failed Paths   : 9
+
+Type           : Clock Hold: 'm[6]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[6]
+To Clock       : m[6]
+Failed Paths   : 9
+
+Type           : Clock Hold: 'm[7]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : m[7]
+To Clock       : m[7]
+Failed Paths   : 4
+
+Type           : Clock Hold: 'n[7]'
+Slack          : Not operational: Clock Skew > Data Delay
+Required Time  : None
+Actual Time    : N/A
+From           : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+To             : Block3:inst2|lpm_counter2:inst5|lpm_counter:lpm_counter_component|cntr_h7h:auto_generated|safe_q[3]
+From Clock     : n[7]
+To Clock       : n[7]
+Failed Paths   : 4
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 185
+
+--------------------------------------------------------------------------------------
+
