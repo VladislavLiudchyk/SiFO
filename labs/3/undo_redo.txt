@@ -1,0 +1,225 @@
+MED
+E:\”чеба\5 семестр\Cи‘ќЁ¬ћ\Ћабы\temp\ROM.hex
+
+	Undo Commands
+	     1.	Cells
+	     2.	Cells
+	     3.	Cells
+	     4.	Cells
+	     5.	Cells
+	     6.	Cells
+	     7.	Change Memory Radix
+	     8.	Change Address Radix
+	     9.	Cells
+	    10.	Cells
+	    11.	Cells
+	    12.	Cells
+	    13.	Cells
+	    14.	Cells
+	    15.	Cells
+	    16.	Cells
+	    17.	Cells
+	    18.	Cells
+
+
+GED
+
+	Undo Commands
+	     1.	Insert Symbol
+	     2.	Insert Symbol
+	     3.	Insert Symbol
+	     4.	Resize
+	     5.	Insert Bus
+	     6.	Resize
+	     7.	Insert Bus
+	     8.	Resize
+	     9.	Insert Bus
+	    10.	Delete
+	    11.	Properties
+	    12.	Insert Node
+	    13.	Insert Bus
+	    14.	Move
+	    15.	Move
+	    16.	Move
+	    17.	Insert Symbol
+	    18.	Properties
+	    19.	Properties
+	    20.	Properties
+	    21.	Insert Node
+	    22.	Insert Node
+	    23.	Insert Node
+	    24.	Delete
+	    25.	Insert Symbol
+	    26.	Insert Symbol
+	    27.	Insert Bus
+	    28.	Move
+	    29.	Paste
+	    30.	Delete
+	    31.	Move
+	    32.	Properties
+	    33.	Properties
+	    34.	Insert Node
+	    35.	Move
+	    36.	Insert Symbol
+	    37.	Properties
+	    38.	Insert Node
+	    39.	Properties
+	    40.	Insert Symbol
+	    41.	Move
+	    42.	Insert Bus
+	    43.	Move
+	    44.	Insert Bus
+	    45.	Rotate 90
+	    46.	Rotate 180
+	    47.	Paste
+	    48.	Delete
+	    49.	Insert Bus
+	    50.	Properties
+	    51.	Move
+	    52.	Insert Node
+	    53.	Insert Node
+	    54.	Move
+	    55.	Properties
+	    56.	Insert Bus
+	    57.	Delete
+	    58.	Move
+	    59.	Properties
+	    60.	Insert Bus
+	    61.	Properties
+	    62.	Properties
+	    63.	Properties
+	    64.	Properties
+	    65.	Insert Bus
+	    66.	Insert Node
+	    67.	Properties
+	    68.	Properties
+	    69.	Move
+	    70.	Paste
+	    71.	Move
+	    72.	Delete
+	    73.	Move
+	    74.	Properties
+	    75.	Properties
+	    76.	Insert Bus
+	    77.	Insert Bus
+	    78.	Insert Bus
+	    79.	Move
+	    80.	Move
+	    81.	Move
+	    82.	Move
+	    83.	Move
+	    84.	Move
+	    85.	Move
+	    86.	Move
+	    87.	Move
+	    88.	Move
+	    89.	Delete
+	    90.	Delete
+	    91.	Delete
+	    92.	Delete Insert
+	    93.	Delete
+	    94.	Delete
+	    95.	Delete
+	    96.	Delete Insert
+	    97.	Delete
+	    98.	Delete
+	    99.	Delete
+	   100.	Delete
+
+
+WED
+
+	Undo Commands
+	     1.	Arbitrary Value
+			 *** 
+
+
+RPW
+
+	Undo Commands
+	     1.	||Compilation Report||Flow Summary
+
+
+RPW
+
+	Undo Commands
+	     1.	||Simulation Report||Simulator||Simulation Waveforms
+
+
+GED
+
+	Undo Commands
+	     1.	Properties
+	     2.	Insert Symbol
+	     3.	Properties
+	     4.	Delete Insert
+	     5.	Delete Insert
+	     6.	Move
+	     7.	Move
+	     8.	Move
+	     9.	Move
+	    10.	Move
+	    11.	Move
+	    12.	Move
+	    13.	Move
+	    14.	Move
+	    15.	Move
+	    16.	Move
+	    17.	Move
+	    18.	Move
+	    19.	Delete
+	    20.	Delete
+	    21.	Delete Insert
+	    22.	Delete
+	    23.	Move
+	    24.	Delete
+	    25.	Delete
+	    26.	Delete
+	    27.	Delete
+	    28.	Delete
+	    29.	Move
+	    30.	Delete
+	    31.	Delete
+	    32.	Delete
+	    33.	Delete Insert
+	    34.	Delete
+	    35.	Move
+	    36.	Move
+	    37.	Paste
+
+
+GED
+
+	Undo Commands
+	     1.	Move
+	     2.	Move
+	     3.	Move
+	     4.	Move
+	     5.	Move
+	     6.	Delete
+	     7.	Delete
+	     8.	Move
+	     9.	Move
+	    10.	Move
+	    11.	Move
+	    12.	Properties
+	    13.	Paste
+	    14.	Move
+	    15.	Move
+	    16.	Move
+	    17.	Paste
+	    18.	Delete
+	    19.	Move
+	    20.	Move
+	    21.	Move
+	    22.	Move
+	    23.	Move
+	    24.	Move
+	    25.	Move
+	    26.	Move
+	    27.	Move
+	    28.	Move
+	    29.	Move
+	    30.	Paste
+
+

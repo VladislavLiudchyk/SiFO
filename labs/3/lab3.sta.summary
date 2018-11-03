@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 900mV 100C Model Setup 'clk'
+Slack : -4.018
+TNS   : -79.406
+
+Type  : Slow 900mV 100C Model Setup 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -3.508
+TNS   : -73.955
+
+Type  : Slow 900mV 100C Model Hold 'clk'
+Slack : -0.473
+TNS   : -1.487
+
+Type  : Slow 900mV 100C Model Hold 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -0.467
+TNS   : -3.683
+
+Type  : Slow 900mV 100C Model Recovery 'clk'
+Slack : -1.923
+TNS   : -5.247
+
+Type  : Slow 900mV 100C Model Removal 'clk'
+Slack : -0.909
+TNS   : -2.895
+
+Type  : Slow 900mV 100C Model Minimum Pulse Width 'clk'
+Slack : -3.545
+TNS   : -150.674
+
+Type  : Slow 900mV 100C Model Minimum Pulse Width 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -1.666
+TNS   : -73.286
+
+Type  : Slow 900mV -40C Model Setup 'clk'
+Slack : -3.985
+TNS   : -83.446
+
+Type  : Slow 900mV -40C Model Setup 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -3.543
+TNS   : -74.084
+
+Type  : Slow 900mV -40C Model Hold 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -0.766
+TNS   : -8.196
+
+Type  : Slow 900mV -40C Model Hold 'clk'
+Slack : -0.521
+TNS   : -1.622
+
+Type  : Slow 900mV -40C Model Recovery 'clk'
+Slack : -1.860
+TNS   : -4.932
+
+Type  : Slow 900mV -40C Model Removal 'clk'
+Slack : -0.950
+TNS   : -3.034
+
+Type  : Slow 900mV -40C Model Minimum Pulse Width 'clk'
+Slack : -3.545
+TNS   : -151.097
+
+Type  : Slow 900mV -40C Model Minimum Pulse Width 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -1.666
+TNS   : -77.486
+
+Type  : Fast 900mV -40C Model Setup 'clk'
+Slack : -1.736
+TNS   : -19.471
+
+Type  : Fast 900mV -40C Model Setup 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -1.461
+TNS   : -22.601
+
+Type  : Fast 900mV -40C Model Hold 'clk'
+Slack : -0.367
+TNS   : -1.068
+
+Type  : Fast 900mV -40C Model Hold 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -0.291
+TNS   : -3.000
+
+Type  : Fast 900mV -40C Model Recovery 'clk'
+Slack : -0.446
+TNS   : -0.446
+
+Type  : Fast 900mV -40C Model Removal 'clk'
+Slack : -0.511
+TNS   : -1.592
+
+Type  : Fast 900mV -40C Model Minimum Pulse Width 'TestDFF:inst15|lpm_counter1:inst6|lpm_counter:lpm_counter_component|cntr_sri:auto_generated|counter_reg_bit[0]'
+Slack : -0.391
+TNS   : -19.502
+
+Type  : Fast 900mV -40C Model Minimum Pulse Width 'clk'
+Slack : -0.390
+TNS   : -17.256
+
+------------------------------------------------------------
