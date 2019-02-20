@@ -16,3 +16,12 @@ RAM output synchronous <br>
 Size of buffer 4 bytes <br>
 Delay of 3 cycles <br>
 
+### Fourth lab
+
+Address bus 7 bits <br>
+Data bus 10 bits <br>
+First instruction: R->M <br>
+Addressing type of the operand: implicit <br>
+Second instruction: jc <br>
+Addressing type of the operand: relative with offset <br>
+
