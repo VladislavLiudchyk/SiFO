@@ -43,3 +43,7 @@ Cache way: 4 <br>
 Cache replacement algorithm: periodic <br>
 Size of RAM: 8x size of cache <br>
 Data bus: 6 bits <br>
+
+### Seventh lab
+
+Cache write: write-back flag delayed <br>
