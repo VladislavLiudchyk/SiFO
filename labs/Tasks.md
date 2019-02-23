@@ -25,3 +25,11 @@ Addressing type of the operand: implicit <br>
 Second instruction: jc <br>
 Addressing type of the operand: relative with offset <br>
 
+### Fifth lab
+
+Type of arbitration: centralized <br>
+Connection type: parallel <br>
+Bus arbitration algorithm: a fixed time quantum <br>
+Synchronous bus <br>
+Num. of master: 4 <br>
+Num of slave: 4 <br>
