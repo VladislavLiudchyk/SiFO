@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="lab6">
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst86|lpm_counter4:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_pki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|LPM_RAM_IO:inst1|altram:sram|altsyncram:ram_block" CBX_FILE_NAME="altsyncram_v991.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|cash_block:inst21|lpm_counter2:inst33|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|lpm_compare1:inst28|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst86|lpm_counter6:inst35|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_e4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst87|lpm_counter4:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_pki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|cash_block:inst|lpm_counter2:inst33|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|lpm_compare1:inst30|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|read_from_ram:inst127|lpm_counter4:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_pki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst87|lpm_counter6:inst35|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_e4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst88|lpm_counter4:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_pki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|lpm_compare1:inst31|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|read_from_ram:inst127|lpm_counter0:inst2|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_s3i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst88|lpm_counter6:inst35|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_e4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst89|lpm_counter4:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_pki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|lpm_compare1:inst27|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|lpm_counter8:inst61|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_q3i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab6|write_to_ram:inst89|lpm_counter6:inst35|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_e4i.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

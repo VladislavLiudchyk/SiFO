@@ -33,3 +33,13 @@ Bus arbitration algorithm: a fixed time quantum <br>
 Synchronous bus <br>
 Num. of master: 4 <br>
 Num of slave: 4 <br>
+
+### Sixth lab
+
+Type of cache: k-way set associative <br>
+Num. of cache strings: 8 <br>
+String size: 4 words <br>
+Cache way: 4 <br>
+Cache replacement algorithm: periodic <br>
+Size of RAM: 8x size of cache <br>
+Data bus: 6 bits <br>
